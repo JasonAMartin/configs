@@ -1,0 +1,5 @@
+LS_COLORS='di=36:fi=1:ln=35:pi=31:so=31:bd=31:cd=31:or=31:mi=1:ex=35:*.rpm=90'
+export LS_COLORS
+alias ls='ls -F --color=auto --show-control-chars'
+alias ll='ls -l'
+
