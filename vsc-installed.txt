@@ -29,6 +29,7 @@ kisstkondoros.vscode-codemetrics
 msjsdiag.debugger-for-chrome
 naumovs.color-highlight
 octref.vetur
+oderwat.indent-rainbow
 PeterJausovec.vscode-docker
 robertohuertasm.vscode-icons
 ryu1kn.partial-diff
